@@ -1,0 +1,14 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Base.Theme.MobileAddictionDetection"
+        parent="Theme.Material3.DayNight.NoActionBar">
+
+    </style>
+
+    <!-- ADD THESE COLORS BELOW -->
+    <color name="bg_color">#FFFFFF</color>
+    <color name="card_bg">#F2F2F2</color>
+    <color name="text_primary">#000000</color>
+    <color name="text_secondary">#555555</color>
+
+</resources>

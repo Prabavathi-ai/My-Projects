@@ -1,0 +1,22 @@
+.layout {
+  display: flex;
+}
+
+.content {
+  flex: 1;
+  padding: 24px;
+  background: #f5f7fb;
+  min-height: 100vh;
+}
+
+.kpi-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 16px;
+}
+
+.charts-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+}
